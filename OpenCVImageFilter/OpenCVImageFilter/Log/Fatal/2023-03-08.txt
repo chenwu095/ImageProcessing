@@ -1,0 +1,2 @@
+2023-03-08 15:14:56 周三 File:(global\qglobal.cpp)Line:(2022) ASSERT failure in QList<T>::operator[]: "index out of range", file C:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtCore/qlist.h, line 460
+2023-03-08 15:15:25 周三 File:(global\qglobal.cpp)Line:(2022) ASSERT failure in QList<T>::operator[]: "index out of range", file C:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtCore/qlist.h, line 460

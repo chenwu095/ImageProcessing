@@ -1,0 +1,30 @@
+﻿生成启动时间为 2023/3/25 17:22:36。
+     1>项目“D:\OpenCVImageFilter(ver1.0.0)\OpenCVImageFilter\OpenCVImageFilter.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\OpenCVImageFilter.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtCore /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtGui /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtSql /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtWidgets /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtMultimedia /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_opencvimagefilter.cpp
+         qrc_opencvimagefilter.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtCore /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtGui /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtSql /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtWidgets /IC:\Qt\Qt5.1.1\5.1.1\msvc2010\include\QtMultimedia /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Release\moc_opencvimagefilter.cpp main.cpp opencvimagefilter.cpp
+         moc_opencvimagefilter.cpp
+         main.cpp
+         opencvimagefilter.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OpenCVImageFilter(ver1.0.0)\Win32\Release\\OpenCVImageFilter.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.1.1\5.1.1\msvc2010\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Sql.lib Qt5Widgets.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_nonfree2410.lib opencv_objdetect2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\OpenCVImageFilter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"D:\OpenCVImageFilter(ver1.0.0)\Win32\Release\OpenCVImageFilter.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OpenCVImageFilter(ver1.0.0)\Win32\Release\OpenCVImageFilter.lib" /MACHINE:X86 Release\qrc_opencvimagefilter.obj
+         Release\moc_opencvimagefilter.obj
+         Release\main.obj
+         Release\opencvimagefilter.obj
+         OpenCVImageFilter.vcxproj -> D:\OpenCVImageFilter(ver1.0.0)\Win32\Release\OpenCVImageFilter.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\OpenCVImageFilter(ver1.0.0)\Win32\Release\\OpenCVImageFilter.exe;#1" /manifest Release\OpenCVImageFilter.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\OpenCVImageFilter.unsuccessfulbuild”。
+         正在对“Release\OpenCVImageFilter.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\OpenCVImageFilter(ver1.0.0)\OpenCVImageFilter\OpenCVImageFilter.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.99

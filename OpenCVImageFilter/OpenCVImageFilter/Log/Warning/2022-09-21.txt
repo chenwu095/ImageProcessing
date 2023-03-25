@@ -1,0 +1,296 @@
+2022-09-21 11:13:19 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：3" 
+2022-09-21 11:17:38 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 11:25:08 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 12:41:47 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 13:45:24 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 13:57:24 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 14:04:13 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 14:11:18 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 14:18:46 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:18:59 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 14:19:52 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:29:44 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:33:13 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 14:34:10 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:40:42 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 14:41:39 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:52:49 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:41 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:41 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:42 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:42 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:43 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:43 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:44 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:44 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:45 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:45 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:46 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:47 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:47 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:47 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:47 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:47 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:47 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:47 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:48 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:48 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:48 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:48 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:55 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:55:59 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:00 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:00 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:00 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:00 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:00 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:00 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:00 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:01 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:01 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:01 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:01 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:01 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:01 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:11 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:11 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:11 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:11 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:11 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:11 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:12 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:13 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:13 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:13 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:13 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:13 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:13 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:13 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:14 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:15 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:16 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:17 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:17 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:17 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:17 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:17 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:17 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:56:39 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:40 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:40 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:41 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:41 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:42 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:42 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:43 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:43 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:44 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:44 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:56:45 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:57:53 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:57:54 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:57:55 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:57:56 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:57:57 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:57:58 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:58:19 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:58:19 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:58:20 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:58:20 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:58:21 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:02 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:02 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:03 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:03 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:04 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:04 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:05 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:05 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:06 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:07 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:07 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:12 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:13 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:13 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:14 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:14 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:15 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:20 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:21 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:21 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 14:59:21 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:22 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:23 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:24 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:24 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:24 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:24 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:24 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:24 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:24 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:25 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:26 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:27 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:27 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:27 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:27 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:27 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:27 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:27 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:28 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:29 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:30 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:30 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:30 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:30 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 14:59:30 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 15:07:14 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:07:14 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:07:15 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:07:15 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:07:16 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:07:16 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:07:17 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:12:18 周三 File:(image\qimage.cpp)Line:(5695) QImage: out of memory, returning null image
+2022-09-21 15:22:59 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:22:59 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:23:00 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:23:00 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 15:43:31 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 15:47:50 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 15:55:22 周三 File:(thread_camera.cpp)Line:(85) "海康工业相机连接错误，连接返回值为：-1" 
+2022-09-21 16:12:30 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:18 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:18 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:19 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:19 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:20 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:20 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:21 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:21 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:14:22 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:21:09 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:21:10 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:21:11 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:21:12 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:20 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:21 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:22 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:23 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:24 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:32 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:33 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:34 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:35 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:36 周三 File:(image\qimage.cpp)Line:(3406) QImage: out of memory, returning null image
+2022-09-21 16:22:37 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 16:22:38 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 16:22:39 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image
+2022-09-21 16:22:40 周三 File:(image\qimage.cpp)Line:(3871) QImage::scaled: Image is a null image

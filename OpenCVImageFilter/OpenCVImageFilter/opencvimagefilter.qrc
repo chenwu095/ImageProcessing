@@ -1,0 +1,61 @@
+<RCC>
+  <qresource prefix="OpenCVImageFilter">
+    <file>Resources/about.png</file>
+    <file>Resources/add.png</file>
+    <file>Resources/anticlockwise .png</file>
+    <file>Resources/arrow_blue.png</file>
+    <file>Resources/arrow_gray.png</file>
+    <file>Resources/arrow_red.png</file>
+    <file>Resources/calculate.png</file>
+    <file>Resources/chip.png</file>
+    <file>Resources/chip_48px.ico</file>
+    <file>Resources/clear.png</file>
+    <file>Resources/clockwise .png</file>
+    <file>Resources/comm.png</file>
+    <file>Resources/config.png</file>
+    <file>Resources/cont.png</file>
+    <file>Resources/continue.png</file>
+    <file>Resources/corret.png</file>
+    <file>Resources/disc.png</file>
+    <file>Resources/disk.png</file>
+    <file>Resources/down.png</file>
+    <file>Resources/down-circle.png</file>
+    <file>Resources/edit.png</file>
+    <file>Resources/err.png</file>
+    <file>Resources/left.png</file>
+    <file>Resources/left-circle.png</file>
+    <file>Resources/libraray.png</file>
+    <file>Resources/lock.png</file>
+    <file>Resources/Main.png</file>
+    <file>Resources/manual 1.png</file>
+    <file>Resources/manual.png</file>
+    <file>Resources/mark (1).png</file>
+    <file>Resources/mark.png</file>
+    <file>Resources/moveTo.png</file>
+    <file>Resources/new.png</file>
+    <file>Resources/open.png</file>
+    <file>Resources/open1.png</file>
+    <file>Resources/pause.png</file>
+    <file>Resources/red.gif</file>
+    <file>Resources/reset1.png</file>
+    <file>Resources/right.png</file>
+    <file>Resources/right-circle.png</file>
+    <file>Resources/rst.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/save1.png</file>
+    <file>Resources/save3.png</file>
+    <file>Resources/saveAs.png</file>
+    <file>Resources/start.png</file>
+    <file>Resources/stop.png</file>
+    <file>Resources/stopAndDl.png</file>
+    <file>Resources/sub.png</file>
+    <file>Resources/switch.png</file>
+    <file>Resources/sync.png</file>
+    <file>Resources/test.png</file>
+    <file>Resources/uncont.png</file>
+    <file>Resources/up.png</file>
+    <file>Resources/up-circle.png</file>
+    <file>Resources/warn.png</file>
+    <file>Resources/yellow.gif</file>
+  </qresource>
+</RCC>
